@@ -11,14 +11,28 @@ Hi! I'm Subash Veerasamy, a passionate and versatile Full Stack (MERN) Developer
 **Description**: A full-stack fitness tracker app built with React.js, Bootstrap, Material UI, Redux, and Context API on the front-end, and Node.js, Express.js, and MongoDB on the back-end. Features include user authentication, workout logging, and progress tracking with calorie comparisons.  
 **Technologies Used**: React.js, Node.js, MongoDB, Bootstrap  
 **Live App**: [Fit-Tracker Application](https://subashfsdfittrack.netlify.app/)  
-**Source Code**: [GitHub Repository](https://github.com/subashveerasamy/fitnessTrackerFE.git)  
+**Source Code**: [GitHub Repository](https://github.com/subashveerasamy/fitnessTrackerFE.git)
 
 ### E-Commerce Application
-**Date**: Sept 21 - Sept 30  
+**Date**: September 21 - September 30  
 **Description**: A full-stack E-Commerce web application developed with React.js, Bootstrap, Material UI, and Context API on the front-end, and Node.js, Express.js, and MongoDB on the back-end. Features include user registration, product listing, cart management, order tracking, and user reviews.  
 **Technologies Used**: React.js, Node.js, MongoDB, Bootstrap  
 **Live App**: [E-Commerce Application](https://subashfsdecommerce.netlify.app/)  
-**Source Code**: [GitHub Repository](https://github.com/subashveerasamy/E-Commerce-FE.git)  
+**Source Code**: [GitHub Repository](https://github.com/subashveerasamy/E-Commerce-FE.git)
+
+### User Management App
+**Date**: August 21 - August 22  
+**Description**: I developed a user management app using HTML, CSS, Mock API, Bootstrap, React, and Fetch API. This app manages users' data, allowing users to add, update, and delete user details.  
+**Technologies Used**: HTML, CSS, Mock API, Bootstrap, React, Fetch API  
+**Live App**: [User Management App](https://subashfsdday30.netlify.app/)  
+**Source Code**: [GitHub Repository](https://github.com/subashveerasamy/day30task.git)
+
+### Task Management App
+**Date**: August 24 - August 27  
+**Description**: I developed a Task Management app using HTML, CSS, MongoDB, Bootstrap, React, Express, Node.js, and Axios. This app helps users manage their tasks effectively by allowing them to add new tasks, update task details, and delete tasks. It provides a user-friendly interface for tracking task progress and ensuring productivity.  
+**Technologies Used**: HTML, CSS, MongoDB, Bootstrap, React, Express, Node.js, Axios  
+**Live App**: [Task Management App](https://subashfsdtaskmanagemant.netlify.app/)  
+**Source Code**: [GitHub Repository](https://github.com/subashveerasamy/task-management-app-FE.git)
 
 ## Skills
 
