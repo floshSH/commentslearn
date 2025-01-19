@@ -1,4 +1,4 @@
-# Subash Veerasamy's Portfolio
+# Subash Veerasamy
 
 ## About Me
 
